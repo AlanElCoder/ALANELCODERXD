@@ -13,9 +13,6 @@
 </div>
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/ALANELCODERXD/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ALANELCODERXD/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALANELCODERXD&theme=dark&hide_border=true&border_radius=4.6&locale=es&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=460)](https://git.io/streak-stats)
 </br>
 </br>
