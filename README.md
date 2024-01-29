@@ -1,6 +1,7 @@
 <h1 align="center">Hola soy Alan</h1>
 <h3 align="center">Soy Programador de Friday Night Funkin</h3>
-
+![1500x500](https://github.com/ALANELCODERXD/ALANELCODERXD/assets/107376327/7ba905f1-94a3-45cf-9d91-13ae56967524)
+</a>
 <h3 align="left">Contactame en:</h3>
 <p align="left">
 <a href="https://twitter.com/alanelcoderwe_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanelcoderwe_l" height="30" width="40" /></a>
