@@ -8,13 +8,11 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ALANELCODERXD&theme=dark&hide_border=true&border_radius=4.6&locale=es&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=460" alt="GitHub Streak" /></a>
 
+
 ![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=ALANELCODERXD&show_icons=true&theme=radical)
 
 <a href="https://github.com/ALANELCODERXD/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ALANELCODERXD" />
-</a>
-<a href="https://github.com/ALANELCODERXD/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALANELCODERXD&layout=compact&langs_count=8&card_width=320" />
 </a>
 <h3 align="left">Languages :</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
