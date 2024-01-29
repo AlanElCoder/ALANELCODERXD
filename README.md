@@ -10,7 +10,8 @@
 
 
 </a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ALANELCODERXD" />![Uploading beaming-scott-pilgrim.gif…]()
+
+![beaming-scott-pilgrim](https://github.com/ALANELCODERXD/ALANELCODERXD/assets/107376327/0eb0410b-26e6-483f-b914-3dee30852d26)
 
 </a>
 <h3 align="left">Languages :</h3>
