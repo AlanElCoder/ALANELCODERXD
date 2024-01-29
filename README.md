@@ -11,9 +11,11 @@
 </a>
 
 ![beaming-scott-pilgrim](https://github.com/ALANELCODERXD/ALANELCODERXD/assets/107376327/0eb0410b-26e6-483f-b914-3dee30852d26)
-
 </a>
-
+![Captura de pantalla 2024-01-28 201902](https://github.com/ALANELCODERXD/ALANELCODERXD/assets/107376327/e0ff0d7d-6da7-4a8a-92f9-efe9c99dd88b)
+</a>
+![6lqdpyrmy1yb1](https://github.com/ALANELCODERXD/ALANELCODERXD/assets/107376327/b6d5670d-08b9-4f1d-8e8a-79763cf0bcde)
+</a>
 </div>
 </br>
 </br>
