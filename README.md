@@ -9,8 +9,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ALANELCODERXD&theme=dark&hide_border=true&border_radius=4.6&locale=es&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=460" alt="GitHub Streak" /></a>
 
 
-
-<a href="https://github.com/ALANELCODERXD/github-readme-stats">
+</a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ALANELCODERXD" />![Uploading beaming-scott-pilgrim.gif…]()
 
 </a>
