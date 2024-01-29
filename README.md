@@ -8,20 +8,20 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ALANELCODERXD&theme=dark&hide_border=true&border_radius=4.6&locale=es&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=460" alt="GitHub Streak" /></a>
 </p>
-<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" 
+<a href="https://github-readme-stats.vercel.app/api?ALANELCODERXD=anuraghazra&show_icons=true&theme=transparent" 
 </p>
 <img src="https://giphy.com/embed/7zMvSDWl3RkDSpOjBC"><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?ALANELCODERXD=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?ALANELCODERXD=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?ALANELCODERXD=anuraghazra&show_icons=true" />
 </picture>
 
 <h3 align="left">Languages :</h3>
